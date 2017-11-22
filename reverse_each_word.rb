@@ -7,4 +7,4 @@ def reverse_each_word(sentence)
   #puts words.inspect
 end
 
-reverse_each_word("This is a test sentence")
+reverse_each_word("This is a test sentence.")
