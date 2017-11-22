@@ -3,8 +3,8 @@ def reverse_each_word(sentence)
   words.map do |word|
     word.reverse!
   end
-  puts words.join(" ")
+words.join(" ")
   #puts words.inspect
 end
 
-reverse_each_word("This is a test sentence.")
+#reverse_each_word("This is a test sentence.")
