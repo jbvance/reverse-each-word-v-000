@@ -3,7 +3,7 @@ def reverse_each_word(sentence)
   words.map do |word|
     word.reverse!
   end
-  put words.join(" ")
+  puts words.join(" ")
   #puts words.inspect
 end
 
